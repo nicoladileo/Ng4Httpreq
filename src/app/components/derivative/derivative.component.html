@@ -1,0 +1,9 @@
+<form>
+  Function:<br>
+  <input type="text"[ngModel]="functionName" (ngModelChange)="functionName=$event" name="function"><br>
+  <input type="submit" value="Compute derivative" (click)="computeDerivative();">
+</form>
+
+<h5>Operation: {{operation.operation}}</h5>
+<h5>Expression: {{operation.expression}}</h5>
+<h5>Result: {{operation.result}}</h5>
