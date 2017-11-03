@@ -13,3 +13,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 - Angular services
 - Newton Now Math API (https://newton.now.sh)
 
+## Thanks to
+All codes and contents have been produced following courseware tutorials by [Coursetro](https://coursetro.com/) available [online](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
